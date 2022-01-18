@@ -1,0 +1,13 @@
+.header{
+    color: #ffffff;
+    display: flex;
+    align-items: center;
+}
+.body{
+    min-height: 60vh;
+    display: flex;
+}
+.body_left{
+    background-color: #bfbfbf;
+
+}qwf
